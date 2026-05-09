@@ -1,0 +1,11 @@
+transformers
+diffusers
+accelerate
+gradio
+pydantic
+requests
+python-dotenv
+pillow
+chromadb
+safetensors
+sentencepiece
